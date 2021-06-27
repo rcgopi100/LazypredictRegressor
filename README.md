@@ -1,0 +1,2 @@
+# LazypredictRegressor
+LazypredictRegressor Customer Price Prediction
